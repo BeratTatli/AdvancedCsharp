@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Berat\\Desktop\\kodlama.io\\Collections\\Collections.csproj",
+      "projectUniqueName": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\Collections\\Collections.csproj",
       "projectName": "Collections",
-      "projectPath": "C:\\Users\\Berat\\Desktop\\kodlama.io\\Collections\\Collections.csproj",
+      "projectPath": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\Collections\\Collections.csproj",
       "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Berat\\Desktop\\kodlama.io\\Collections\\obj\\",
+      "outputPath": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\Collections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

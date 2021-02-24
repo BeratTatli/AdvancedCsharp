@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Ink+Uc/2W3XwWda1ZaE/yKE6hff/6tzJvX9EWKMrBmqrM+8PTiQMKQZaDNLq69PlAzeJyikaC1L95fi8h7cMg==",
+  "dgSpecHash": "S1f0IT5YdBFfb/vb4c5tpDfNtjCKyt8A/2TNJGUL5AWKvc6YQUYkkviJrSoSxMXHg2MBUkxhJ+1PQB/kzuVzdQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Berat\\Desktop\\kodlama.io\\GenericsIntro\\GenericsIntro.csproj",
+  "projectFilePath": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\GenericsIntro\\GenericsIntro.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

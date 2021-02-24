@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Berat\\Desktop\\kodlama.io\\OOP1\\OOP1.csproj",
+      "projectUniqueName": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\OOP1\\OOP1.csproj",
       "projectName": "OOP1",
-      "projectPath": "C:\\Users\\Berat\\Desktop\\kodlama.io\\OOP1\\OOP1.csproj",
+      "projectPath": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\OOP1\\OOP1.csproj",
       "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Berat\\Desktop\\kodlama.io\\OOP1\\obj\\",
+      "outputPath": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\OOP1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Berat\\Desktop\\kodlama.io\\GenericsIntro\\GenericsIntro.csproj": {}
+    "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\GenericsIntro\\GenericsIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Berat\\Desktop\\kodlama.io\\GenericsIntro\\GenericsIntro.csproj": {
+    "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\GenericsIntro\\GenericsIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Berat\\Desktop\\kodlama.io\\GenericsIntro\\GenericsIntro.csproj",
+        "projectUniqueName": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\GenericsIntro\\GenericsIntro.csproj",
         "projectName": "GenericsIntro",
-        "projectPath": "C:\\Users\\Berat\\Desktop\\kodlama.io\\GenericsIntro\\GenericsIntro.csproj",
+        "projectPath": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\GenericsIntro\\GenericsIntro.csproj",
         "packagesPath": "C:\\Users\\Berat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Berat\\Desktop\\kodlama.io\\GenericsIntro\\obj\\",
+        "outputPath": "C:\\Users\\Berat\\Desktop\\AdvancedCsharp\\GenericsIntro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
